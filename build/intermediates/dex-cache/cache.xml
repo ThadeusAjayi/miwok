@@ -29,6 +29,15 @@
         <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_c0570a557afd34ca398e11e9575454243088a2d7\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
         jumboMode="true"
@@ -36,6 +45,33 @@
         revision="23.0.2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
         <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_c0570a557afd34ca398e11e9575454243088a2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_b6ee7755aabcb4ad3f7ebad3b2a3739e44e2826a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_8f3486cb5763c61668ae235c9cc1cc310e8df7f7.jar" />
     </item>
     <item
         is-multidex="true"
@@ -56,6 +92,15 @@
         <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8f3486cb5763c61668ae235c9cc1cc310e8df7f7\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_bd02c923dd782c070d11ba65aef8078dd87b292d.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\jayson surface\Miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -74,6 +119,15 @@
         <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_bd02c923dd782c070d11ba65aef8078dd87b292d\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_a2954c6bc758d28db77e42e426d44b9e85d5a334.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
@@ -90,6 +144,24 @@
         revision="23.0.2"
         sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
         <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_a2954c6bc758d28db77e42e426d44b9e85d5a334\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_9a0385b40dc912db865c6f5a63643802f7e278db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jayson surface\Miwok\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\jayson surface\Miwok\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_343bb366bdbbbd8696abf8a5f7671196d4710769.jar" />
     </item>
 
 </items>

@@ -5,22 +5,22 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1447289522261580"
+    timestamp="420490112559478"
     token="1680658720974834921"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2277" />
+        duration="1066" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="749" />
+        duration="25" />
     <task
         name="verifier"
-        duration="59" />
+        duration="2" />
 
     <artifact
         location="C:\Users\jayson surface\Miwok\app\build\outputs\apk\app-debug.apk"

@@ -1,4 +1,4 @@
-#Thu Jan 26 18:32:23 WAT 2017
+#Mon Feb 06 13:09:42 WAT 2017
 base.0=C\:\\Users\\jayson surface\\Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a7f811d833871cd661e4009bf324b628fbf1812f
 renamed.1=classes2.dex
 renamed.0=classes.dex
